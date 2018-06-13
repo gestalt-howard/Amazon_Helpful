@@ -2,7 +2,7 @@
 
 ***Project Completion Date:*** June 10, 2018
 
-![Project Photo](./images/advertising-amazon-amazon-seo-907607.jpg)
+![Project Photo](https://github.com/gestalt-howard/Amazon_Helpful/blob/master/images/advertising-amazon-amazon-seo-907607.jpg)
 
 ## Project Overview:
 This repository contains snippets of development code along with the final code used to deliver results for the Kaggle competition (https://www.kaggle.com/c/dse-220-2018-final).
